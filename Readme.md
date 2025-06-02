@@ -129,7 +129,7 @@ Admin & Analytics
 ```
 ### **📞 Support & Contact**
 For issues & feature requests, contact Ankit Gupta
-📧 Email: [ankitkumargupta752@gmail.com](mailto:ankitkumargupta752@gmail.com)  
-🐦 Twitter: [@ankitgupta_79](https://twitter.com/ankitgupta_79)
+📧 Email: [chaurasiayash2910@gmail.com](mailto:chaurasiayash2910@gmail.com)  
+🐦 Twitter: [@Yash3129](https://twitter.com/yash3129)
 
 ### **🎉 Thank You for Using AI Chatbot! 🚀**
